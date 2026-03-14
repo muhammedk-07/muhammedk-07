@@ -1,16 +1,29 @@
-## Hi there 👋
+# Merhaba, ben Muhammed! | Hello, I am Muhammed! 👋 
 
-<!--
-**muhammedk-07/muhammedk-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+ **Atatürk Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Sektöre yeni başlayan biri olarak GitHub'ı sadece kod depolamak için değil, gelişim sürecimi yakından takip etmek için de kullanmayı amaçlıyorum.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+ *I am a Computer Engineering student at Ataturk University. As a newcomer to the industry, I aim to use GitHub not only for storing code but also for closely monitoring my development process*
+
+<br>
+
+ ## 📚Eğitim ve Temeller | Education & Fundamentals
+- C (Temel Seviye / Beginner)
+- C++ (Temel Seviye / Beginner)
+
+<br>
+
+ ## 🎯 İlgi Alanları | Interests
+- 📱Android ve iOS Uygulama Tasarımı / *Mobile App Developer* 
+- 🛡️Siber Güvenlik / *Cyber Security* 
+- 🌐Web Tasarımı / *Web Design*
+- ⚽ Futbol & Spor Disiplini / *Football & Athletic Discipline*
+
+<br>
+
+## 📫 İletişim | Contacts
+**Email:** muhammed.kucuk.0720@gmail.com
+

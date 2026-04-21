@@ -13,7 +13,7 @@
  ## 📚Eğitim ve Temeller | Education & Fundamentals
 - C (Temel Seviye / Beginner)
 - C++ (Temel Seviye / Beginner)
-
+- HTML
 <br>
 
  ## 🎯 İlgi Alanları | Interests

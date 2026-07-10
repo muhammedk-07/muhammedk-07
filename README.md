@@ -14,6 +14,7 @@
 - C (Temel Seviye / Beginner)
 - C++ (Temel Seviye / Beginner)
 - HTML
+- CSS
 <br>
 
  ## 🎯 İlgi Alanları | Interests

@@ -11,8 +11,8 @@
 <br>
 
  ## 📚Eğitim ve Temeller | Education & Fundamentals
-- C (Temel Seviye / Beginner)
-- C++ (Temel Seviye / Beginner)
+- C
+- C++
 - HTML
 - CSS
 <br>

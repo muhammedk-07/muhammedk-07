@@ -1,30 +1,39 @@
-# Merhaba, ben Muhammed! | Hello, I am Muhammed! 👋 
+# 👋 Merhaba, ben Muhammed! | Hi, I'm Muhammed!
 
-<br>
+Atatürk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. İlgilendiğim alanlarda kendimi geliştirmeye ve bu alanlarda profesyonel yetkinliğe ulaşmaya odaklanıyorum.
 
- **Atatürk Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Sektöre yeni başlayan biri olarak GitHub'ı sadece kod depolamak için değil, gelişim sürecimi yakından takip etmek için de kullanmayı amaçlıyorum.**
+*I am a Computer Engineering student at Atatürk University. I focus on improving myself in my fields of interest and achieving professional competence.*
 
-<br>
+---
 
- *I am a Computer Engineering student at Ataturk University. As a newcomer to the industry, I aim to use GitHub not only for storing code but also for closely monitoring my development process*
+## 🛠️ Teknolojiler & Beceriler | Tech Stack
 
-<br>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
- ## 📚Eğitim ve Temeller | Education & Fundamentals
-- C
-- C++
-- HTML
-- CSS
-<br>
+---
 
- ## 🎯 İlgi Alanları | Interests
-- 📱Android ve iOS Uygulama Tasarımı / *Mobile App Developer* 
-- 🛡️Siber Güvenlik / *Cyber Security* 
-- 🌐Web Tasarımı / *Web Design*
-- ⚽ Futbol & Spor Disiplini / *Football & Athletic Discipline*
+## 🎯 İlgi Alanları | Interests
 
-<br>
+- 📱 **Mobil Uygulama Geliştirme** / *Mobile App Development (Android & iOS)*
+- 🛡️ **Siber Güvenlik** / *Cyber Security*
+- 🌐 **Web Tasarımı & Geliştirme** / *Web Design & Development*
+- ⚽ **Futbol & Spor Disiplini** / *Football & Athletic Discipline*
 
-## 📫 İletişim | Contacts
-**Email:** muhammed.kucuk.0720@gmail.com
+---
 
+## 📊 GitHub İstatistikleri | GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=muhammedk-07&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 İletişim | Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-küçük-53548a3b7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammed.kucuk.0720@gmail.com)

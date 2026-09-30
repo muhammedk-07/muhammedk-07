@@ -8,7 +8,7 @@ Atatürk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. İlgilendiğim 
 
 ## 🛠️ Teknolojiler & Beceriler | Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,c,cpp)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,git,github,c,cpp)](https://skillicons.dev)
 
 ---
 
